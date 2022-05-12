@@ -1,1 +1,1 @@
-Contains code for ES6 basics
+Contains code for alx-frontend-javascript
