@@ -6,5 +6,5 @@ export default class Airport {
 }
 
 Airport.prototype.toString = function airportToString() {
-    return `${this._code}`;
+    return `[object ${this._code}]`;
 };
